@@ -16,14 +16,13 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Resume.md", title: "Resume", icon: resume}
-  - {file: "Publications.md", title: "Publications", icon: publications}
-  - {file: "Orientations.md", title: "Orientations", icon: orientations}
+  - {file: "Resume.md", title: "Resume", sidebaricon: resume}
+  - {file: "Publications.md", title: "Publications", sidebaricon: publications}
+  - {file: "Orientations.md", title: "Orientations", sidebaricon: orientations}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:idelfonso.nogueira@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/viniviena"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
