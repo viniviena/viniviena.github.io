@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Idelfonso Nogueira"
 ---
 
 This is some info about me.
