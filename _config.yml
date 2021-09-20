@@ -16,10 +16,10 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Home", sidebaricon: home}
+  - {file: "index.md", title: "Home", icon: home}
   - {file: "Resume.md", title: "Resume", icon: file}
-  - {file: "Publications.md", title: "Publications", sidebaricon: publications}
-  - {file: "Orientations.md", title: "Orientations", sidebaricon: orientations}
+  - {file: "Publications.md", title: "Publications", icon: atom}
+  - {file: "Orientations.md", title: "Orientations", icon: university}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:idelfonso.nogueira@gmail.com"}
