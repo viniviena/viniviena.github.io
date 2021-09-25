@@ -23,7 +23,7 @@ adaptive variants.
 
   - Parameter Estimation, Inference and Quality Control of an Ethylene Copolymerization Process.
 
-### <span>University of Porto, Master in Chemical Engineering </span> <span>2013 -- 2016</span>
+### <span>University of Porto, Master in Chemical Engineering </span> <span>2006 -- 2012</span>
 
   - Major in Processes and Pruducts.
 
