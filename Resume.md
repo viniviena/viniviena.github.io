@@ -17,7 +17,7 @@ and real-time optimization to address problems found in Chemical Industry.
 
    - Process Systems Engineering;
    - First Principles Modelling and Artificial Intelligence;
-   - Advanced control and real-time optimization.
+   - Advanced Control and Real-time Optimization.
 
 ## Education
 
@@ -44,7 +44,6 @@ hand -->
 ### <span>Postdoctoral (Research), LSRE - University of Porto</span> <span>Set 2018 -- Nov 2018</span>
 
 ### <span>Visiting Researcher, Tampereen teknillinen yliopisto Hydrauliikan - Finland</span> <span>Set 2016 -- Out 2017</span>
-
 
 ## Skills
 
