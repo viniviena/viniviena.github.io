@@ -3,7 +3,7 @@
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- <idelfonso.nogueira@gmail.com>
+- <idelfonso@fe.up.pt>
 - (+351) 911-991-699
 - Porto, Portugal
 
