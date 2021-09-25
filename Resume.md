@@ -13,6 +13,12 @@ Researcher with focuses on developing innovative Process Systems Engineering sol
 based on first principle modelling, artificial intelligence, advanced control 
 and real-time optimization to address problems found in Chemical Industry.
 
+## Research Interests
+
+   - Process Systems Engineering;
+   - First Principles Modelling and Artificial Intelligence;
+   - Advanced control and real-time optimization.
+
 ## Education
 
 ### <span>University of Porto, Doctorate in Chemical and Biological Engineering </span> <span>2015 -- 2018</span>
@@ -38,16 +44,6 @@ hand -->
 ### <span>Postdoctoral (Research), LSRE - University of Porto</span> <span>Set 2018 -- Nov 2018</span>
 
 ### <span>Visiting Researcher, Tampereen teknillinen yliopisto Hydrauliikan - Finland</span> <span>Set 2016 -- Out 2017</span>
-
-## Projects
-
-### <span>Miss Direction</span> <span>Aug 2016</span>
-
-A mapping engine that misguides you:
-
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
 
 
 ## Skills
