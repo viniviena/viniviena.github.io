@@ -47,13 +47,20 @@ A mapping engine that misguides you:
 
 ## Education
 
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
+### <span>University of Porto, Doctorate in Chemical and Biological Engineering </span> <span>2015 -- 2018</span>
 
-  - GPA 4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
+  - Optimization and control of TMB, SMB and SMBR units.
+
+### <span>Federal University of Bahia, Master in Industrial Engineering </span> <span>2013 -- 2016</span>
+
+  - Parameter Estimation, Inference and Quality Control of an Ethylene Copolymerization Process.
+
+### <span>University of Porto, Master in Chemical Engineering </span> <span>2013 -- 2016</span>
+
+  - Major in Processes and Pruducts.
 
 ## Skills
 
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+ - Programming: Matlab, Python.
+ - Modelling: gPROMs, Aspen
+ - Languages: English (C1), Spanish;Castilian (B2), Italian (B1), Finnish (A2), French (A1)
