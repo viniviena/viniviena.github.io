@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Idelfonso Nogueira"
+title: "Idelfonso B. R. Nogueira"
 ---
 <img align="left" src="idelfonso.png">
 This is some info about me.
