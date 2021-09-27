@@ -11,5 +11,5 @@ Over the last years, my research activities have focused on proposing solutions 
   - **Processes and Digitalization** deal with the development of solutions for automation of chemical units and the development of software/hardware to promote the integration between the other branches of my researcher and the physical processes. It focuses on consolidating concise cyber-physical systems and exploring their potentialities through their cloning into digital twins.
   - **Uncertainty Evaluation** covers the evaluation and integration of the uncertainty sources. Its focus ranges from the modeling level to the practical issues related to chemical processes to develop. It aims at the determination of trustworthy, reliable, and precise models. It considers the uncertainty evaluation as an essential tool that allows the model identification and validation to be made with a low number of experiments while leading to high precision predictions
 
-<img align="center" src="home.png">
+<center><img src="home.png"></center>
   
