@@ -75,8 +75,8 @@ hand -->
    -  Journal of Chromatography A, Elsevier
    -  Hydrology: Current Research 
    -  Journal of Marine Science: Research & Development 
-  
-<img src="reviews.png">
+ 
+![Reviews](/reviews.png)
   
 ## Association Member
    - <span>Current P2S - Processos e Produtos Sustentáveis (UFBA research group) External Reseacher </span><span>2020 -- Current</span>
@@ -84,5 +84,5 @@ hand -->
    - <span>Group of Research in Uncertainty GI-UFBA Manager Member, Specialist Member </span><span>2013 -- 2016</span>
 
 ## Publications
-<img src="publications.png">
+![Publications](/publications.png)
 
