@@ -9,15 +9,6 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Researcher with focus on developing innovative Process Systems Engineering solutions
-based on first principle modelling, artificial intelligence, advanced control 
-and real-time optimization to address problems found in Chemical Industry.
-
-## Research Interests
-
-   - Process Systems Engineering;
-   - First Principles Modelling and Artificial Intelligence;
-   - Advanced Control and Real-time Optimization.
 
 ## Education
 
@@ -39,14 +30,55 @@ and real-time optimization to address problems found in Chemical Industry.
 hand -->
 ### <span>Contracted Researcher, LSRE - University of Porto</span> <span>Nov 2018 -- Current</span>
 
- - Build an algorithm for artist to detect if their music was violating
-
 ### <span>Postdoctoral (Research), LSRE - University of Porto</span> <span>Set 2018 -- Nov 2018</span>
 
 ### <span>Visiting Researcher, Tampereen teknillinen yliopisto Hydrauliikan - Finland</span> <span>Set 2016 -- Out 2017</span>
 
-## Skills
+## Research Interests
 
- - Programming: Matlab, Python.
- - Modelling: gPROMs, Aspen
- - Languages: English (C1), Spanish;Castilian (B2), Italian (B1), Finnish (A2), French (A1)
+   - Artificial Intelligence application in Chemical Engineering;
+   - Advanced Control and Real-time Optimization oriented by Artificial Intelligence;
+   - Optimization and control under uncertainties;
+   - Cyber-physical systems;
+   - Digital twinning.
+
+## Professional Services
+
+### Conference scientific comittee
+   - <span>3rd International Conference on Machine Learning and Intelligent Systems (MLIS 2021) - China </span><span>2020/12 -- 2021/12</span>
+   - <span>2nd International Conference on Machine Learning and Intelligent Systems (MLIS2020) - Korea </span><span>2019 -- 2020</span>
+   - <span>3rd International Conference on Computer Science and Application Engineering - China </span><span>2019 -- 2019</span>
+   - <span> 2019 International Conference on Machine Learning and Intelligent Systems National Dong Hwa University – Taiwan </span><span>2018 -- 2019</span>
+
+### Event Organization 
+   - <span>Lecture Cycle - Writing Scientific Articles. Universidade Federal da Bahia Escola Politécnica, Brazil Seminar (Co-organisor) </span><span>2014/07 -- 2014/08</span>
+   - <span>II Scientific Seminar of the Research Group in Uncertainties. Universidade Federal da Bahia Escola Politécnica, Brazil Seminar (Co-organisor) </span><span>2014 -- 2014</span>
+   - <span> New Tools of the Engineering Applied to Solve Industrial Problems. Universidade Federal da Bahia Escola Politécnica, Brazil </span><span>2013/12 -- 2013/12 </span>
+ 
+### Reviewer
+
+   - Brazilian Journal of Chemical Engineering, Springer
+   - Energy and AI, Elsevier
+   - Soft Computing, Springer
+   -  Mathematics, MDPI
+   -  AI, MDPI
+   -  Current Chemical Engineering and Science 
+   -  Computers & Chemical, Elsevier
+   -  Symmetry, MDPI
+   -  Chemosphere, Elsevier
+   -  Applied Sciences, MDPI
+   -  Current Energies, MDPI 
+   -  Processes, MDPI
+   -  Journal of Chromatography A, Elsevier
+   -  Hydrology: Current Research 
+   -  Journal of Marine Science: Research &Development 
+  <img align = "center" src = "reviews.png">
+  
+## Association Member
+   - <span>Current P2S - Processos e Produtos Sustentáveis (UFBA research group) External Reseacher </span><span>2020 -- Current</span>
+   - <span>Current Current Artificial Intelligent oriented Cyclic Adsorption Separation and Reaction Processes Optimization and Control (AICySPrOC) Founding Member, Coordinator </span><span>2020 -- Current</span>
+   - <span> Group of Research in Uncertainty GI-UFBA Manager Member, Specialist Member </span><span>2013 -- 2016</span>
+
+## Publications
+<img align = "center" src = "publications.png">
+
