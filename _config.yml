@@ -19,7 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home", icon: home}
   - {file: "Resume.md", title: "CV", icon: file}
   - {file: "publications.md", title: "Publications", icon: atom}
-  - {file: "Orientations.md", title: "Supervision", icon: university}
+  - {file: "orientations.md", title: "Supervision", icon: university}
+  - {file: "teaching.md", title: "Teaching", icon: chalkboard-teacher}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:idelfonso.nogueira@gmail.com"}
