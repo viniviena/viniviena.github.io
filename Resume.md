@@ -72,7 +72,7 @@ hand -->
    -  Journal of Chromatography A, Elsevier
    -  Hydrology: Current Research 
    -  Journal of Marine Science: Research & Development 
-   -  
+  
 <img align = "center" src = "reviews.png">
   
 ## Association Member
