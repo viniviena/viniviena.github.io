@@ -74,3 +74,12 @@ title: "Publications"
   - Idelfonso B.R. Nogueira; Ana M. Ribeiro; Alírio E. Rodrigues; José M. Loureiro."Dynamics of a True Moving Bed separation process: Effect of operating variables on performance indicators using orthogonalization method".Computers & Chemical Engineering 86 (2016): 5-17. http://dx.doi.org/10.1016/j.compchemeng.2015.12.009.10.1016/j.compchemeng.2015.12.00931
 
   - Sánchez, A.S.; Nogueira, I.B.R.; Kalid, R.A.. "Uses of the reject brine from inlanddesalination for fish farming, Spirulina cultivation, and irrigation of forageshrub and crops". Desalination 364 (2015): 96-107. http://www.scopus.com/inward/record.url?eid=2-s2.0-84925455750&partnerID=MN8TOARS.10.1016/j.desal.2015.01.034
+
+## Thesis/Dissertation
+  - Nogueira, Idelfonso. "Optimization and control of TMB, SMB and SMBR units".PhD, Universidade do Porto Faculdade de Engenharia, 2018. http://hdl.handle.net/10216/112770.2.
+  - Nogueira, Idelfonso. "Parameter Estimation, Inference and Quality Control ofan Ethylene Copolymerization Process". Master, Universidade Federal da Bahia Escola Politécnica, 2016. http://repositorio.ufba.br/ri/handle/ri/24330.
+  - Nogueira, Idelfonso. "Estudo da produção de embalagens plásticas e desenvolvimento de testes de qualidade". Master, Universidade do PortoFaculdade de Engenharia, 2012. http://hdl.handle.net/10216/68206.
+
+## Oral Presentation
+  - Parameter estimation of a liquid-liquid equilibrium for the quaternary systemn-propanol, propanoic acid, propylpropionate and water though the exploration and exploitation technique (CMN 2019 - Congress on NumericalMethods in Engineering)
+  - Modelling of Complex Process Through Artificial Neural Networks (SEMPPGUniversidade Federal da Bahia EscolaPolitécnica (Brazil))
