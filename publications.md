@@ -77,7 +77,7 @@ title: "Publications"
 
 ## Thesis/Dissertation
   - Nogueira, Idelfonso. "Optimization and control of TMB, SMB and SMBR units".PhD, Universidade do Porto, Faculdade de Engenharia, 2018. http://hdl.handle.net/10216/112770.2.
-  - Nogueira, Idelfonso. "Parameter Estimation, Inference and Quality Control ofan Ethylene Copolymerization Process". Master, Universidade Federal da Bahia, Escola Politécnica, 2016. http://repositorio.ufba.br/ri/handle/ri/24330.
+  - Nogueira, Idelfonso. "Parameter Estimation, Inference and Quality Control of an Ethylene Copolymerization Process". Master, Universidade Federal da Bahia, Escola Politécnica, 2016. http://repositorio.ufba.br/ri/handle/ri/24330.
   - Nogueira, Idelfonso. "Estudo da produção de embalagens plásticas e desenvolvimento de testes de qualidade". Master, Universidade do Porto, Faculdade de Engenharia, 2012. http://hdl.handle.net/10216/68206.
 
 ## Oral Presentation
