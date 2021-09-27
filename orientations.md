@@ -31,5 +31,5 @@ title: "Supervision"
     
    - <span> Co-supervisor of Danielle Mendes de Almeida Sampaio, Parameter estimation of a polymerization process using industrial data. Chemical Engineering (Scientific Initiation), Universidade Federal da Bahia, Brazil.</span><span> 2013 -- 2014 </span>
     
-    - <span> Co-supervisor of Ícaro Bernades, Estimation and evaluation of the confidence regions of parameters of aphenomenological model for the ethylene copolymerization. Chemical Engineering (Scientific Initiation), Universidade Federal da Bahia, Brazil.</span><span> 2013 -- 2014 </span>
+   - <span> Co-supervisor of Ícaro Bernades, Estimation and evaluation of the confidence regions of parameters of aphenomenological model for the ethylene copolymerization. Chemical Engineering (Scientific Initiation), Universidade Federal da Bahia, Brazil.</span><span> 2013 -- 2014 </span>
     
