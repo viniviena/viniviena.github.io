@@ -23,18 +23,13 @@ title: "Supervision"
  
    - <span> Co-supervisor of Joana de Matos Silva, Particles Swarm Optimization for Chiral Separation by True Moving Bed Chromatography. Master in Chemical Engineering, University of Porto, Portugal. </span><span> 2016 -- 2017 </span>
  
-    - <span> Co-supervisor of Gabriela Casal Benassi, Uncertainty analysis of an artificialneural model. Chemical Engineering (Scientific Initiation), Universidade Federal da Bahia, Brazil. </span><span> 2014 -- 2015 </span>
+   - <span> Co-supervisor of Gabriela Casal Benassi, Uncertainty analysis of an artificialneural model. Chemical Engineering (Scientific Initiation), Universidade Federal da Bahia, Brazil. </span><span> 2014 -- 2015 </span>
     
-    - <span> Co-supervisor of Marina Figueiredo Soares Mello, Development of a multi-neural networks model to predict polymers properties. Chemical Engineering (Scientific Initiation), Universidade Federal da Bahia, Brazil.</span><span> 2014 -- 2015 </span>
+   - <span> Co-supervisor of Marina Figueiredo Soares Mello, Development of a multi-neural networks model to predict polymers properties. Chemical Engineering (Scientific Initiation), Universidade Federal da Bahia, Brazil.</span><span> 2014 -- 2015 </span>
     
-    - <span> Co-supervisor of Dylan Damacena, Development of a recurrent neuralnetworks model to predict polymers properties. Chemical Engineering (Scientific Initiation), Universidade Federal da Bahia, Brazil.</span><span> 2014 -- 2015 </span>
+   - <span> Co-supervisor of Dylan Damacena, Development of a recurrent neuralnetworks model to predict polymers properties. Chemical Engineering (Scientific Initiation), Universidade Federal da Bahia, Brazil.</span><span> 2014 -- 2015 </span>
     
-    - <span> Co-supervisor of Danielle Mendes de Almeida Sampaio, Parameter estimation of a polymerization process using industrial data. Chemical Engineering (Scientific Initiation), Universidade Federal da Bahia, Brazil.</span><span> 2013 -- 2014 </span>
+   - <span> Co-supervisor of Danielle Mendes de Almeida Sampaio, Parameter estimation of a polymerization process using industrial data. Chemical Engineering (Scientific Initiation), Universidade Federal da Bahia, Brazil.</span><span> 2013 -- 2014 </span>
     
-      - <span> Co-supervisor of Ícaro Bernades, Estimation and evaluation of the confidence regions of parameters of aphenomenological model for the ethylene copolymerization. Chemical Engineering (Scientific Initiation), Universidade Federal da Bahia, Brazil.</span><span> 2013 -- 2014 </span>
-    
-    
-    
-    
-    
+    - <span> Co-supervisor of Ícaro Bernades, Estimation and evaluation of the confidence regions of parameters of aphenomenological model for the ethylene copolymerization. Chemical Engineering (Scientific Initiation), Universidade Federal da Bahia, Brazil.</span><span> 2013 -- 2014 </span>
     
