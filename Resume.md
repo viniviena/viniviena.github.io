@@ -71,8 +71,9 @@ hand -->
    -  Processes, MDPI
    -  Journal of Chromatography A, Elsevier
    -  Hydrology: Current Research 
-   -  Journal of Marine Science: Research &Development 
-  <img align = "center" src = "reviews.png">
+   -  Journal of Marine Science: Research & Development 
+   -  
+<img align = "center" src = "reviews.png">
   
 ## Association Member
    - <span>Current P2S - Processos e Produtos Sustentáveis (UFBA research group) External Reseacher </span><span>2020 -- Current</span>
