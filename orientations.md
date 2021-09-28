@@ -3,9 +3,11 @@ layout: page
 title: "Supervision"
 ---
 
-  - <span> Co-supervisor of Luis Oliveira, A disruptive Cyber-Physical System for fragrances formulation. Chemical and Biological Engineering PhD, University of Porto, Portugal. </span><span>2021/01 -- Current</span>
+  - <span> Supervisor of Luis Oliveira, A disruptive Cyber-Physical System for fragrances formulation. Chemical and Biological Engineering PhD, University of Porto, Portugal. </span><span>2021/01 -- Current</span>
 
-  - <span> Co-supervisor of Anderson A. Prudente ,A complete model for the synthesis of n-Propyl Propionate in a Simulated Moving Bed Reactor. Master in Industrial Engineering (PEI), Universidade Federal da Bahia, Brazil. </span><span>2020/02 -- Current</span>
+  - <span> Supervisor of Vinicius Viena Santana, Cyber-physical oriented chemical process for the separation of biopharmaceutical compounds from natural extracts. Chemical and Biological Engineering PhD, University of Porto, Portugal. </span><span> 2021/09 -- Current</span>
+
+  - <span> Co-supervisor of Anderson A. Prudente, A complete model for the synthesis of n-Propyl Propionate in a Simulated Moving Bed Reactor. Master in Industrial Engineering (PEI), Universidade Federal da Bahia, Brazil. </span><span>2020/02 -- Current</span>
 
   - <span> Co-supervisor of Vinicius Viena, Dynamics of Simulated Moving Bed Reactors. Master in Industrial Engineering (PEI), Universidade Federal da Bahia, Brazil. </span><span> 2020/02 -- Current</span>
 
