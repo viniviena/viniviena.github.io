@@ -25,7 +25,7 @@ title: "Supervision"
 
    - <span> Co-supervisor of Joana de Matos Silva, Particles Swarm Optimization for Chiral Separation by True Moving Bed Chromatography. Master in Chemical Engineering, University of Porto, Portugal. </span><span> 2016 -- 2017 </span>
 
- ## Undegraduate
+## Undegraduate
  
   - <span> Co-supervisor of Anderson Nascimento Prudente, Parameters Estimation of Equilibrium Models for n-Propyl Propionate Reaction System. Degree in Chemical Engineering, Universidade Federal da Bahia, Brazil. </span><span> 2018/01 -- 2020/01</span>
 
