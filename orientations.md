@@ -4,6 +4,7 @@ title: "Supervision"
 ---
 
  ## MSc
+ 
   - <span> Supervisor of Aman Sant Singh Basra, Accelerated models for Stiff Differential Equations - Applications in Water Gas Shift Reactors. Master's Thesis at the Norwegian University of Science and Technology. </span><span>2023/08 -- 2024/08</span>
 
   - <span> Supervisor of June Mari Berge Troan, Novel Deep Learning Strategies for Time Series Forecasting, TKP4680 Chemical Engineering, Specialization Project and in the spring of 2024 for the course TKP4900 Chemical Process Technology, Master's Thesis at the Norwegian University of Science and Technology. </span><span> 2023/08 -- 2024/07</span>
