@@ -5,6 +5,8 @@ title: "Publications"
 
 ## Journal Articles
 
+Here's the updated list with the duplicate preprints removed:
+
 - **Costa, Erbet Almeida; Rebello, Carine Menezes; Viena, Vinícius; Schnitman, Leizer.** "An Uncertainty Approach for Electric Submersible Pump Modeling Through Deep Neural Network". *Heliyon*, January 2024. Full-text available.
 
 - **Viena, Vinícius; Rebello, Carine Menezes; Queiroz, Luana P.; Nogueira, Idelfonso B. R.** "PUFFIN: A Path-Unifying Feed-Forward Interfaced Network for Vapor Pressure Prediction". *Chemical Engineering Science*, December 2023.
@@ -23,13 +25,7 @@ title: "Publications"
 
 - **Viena, Vinícius; Costa, Erbet Almeida; Rebello, Carine Menezes; Nogueira, Idelfonso B. R.** "Efficient Hybrid Modeling and Sorption Model Discovery for Non-Linear Advection-Diffusion-Sorption Systems: A Systematic Scientific Machine Learning Approach". *Chemical Engineering Science*, August 2023.
 
-- **Gama, Marlon; Lima, Fernando; Viena, Vinícius; Barreto Jr, Amaro.** "A Parallel Hybrid Model for Integrating Protein Adsorption Models with Deep Neural Networks". *Preprint*, July 2023. Published version available.
-
-- **Viena, Vinícius; Rebello, Carine Menezes; Queiroz, Luana P.; Nogueira, Idelfonso B. R.** "PUFFIN: A Path-Unifying Feed-Forward Interfaced Network for Vapor Pressure Prediction". *Preprint*, July 2023. File available.
-
 - **Queiroz, Luana P.; Rebello, Carine Menezes; Costa, Erbet Almeida; Nogueira, Idelfonso B. R.** "Transfer Learning Approach to Develop Natural Molecules with Specific Flavor Requirements". *Industrial & Engineering Chemistry Research*, May 2023.
-
-- **Viena, Vinícius; Costa, Erbet Almeida; Rebello, Carine Menezes; Nogueira, Idelfonso B. R.** "Efficient Hybrid Modeling and Sorption Model Discovery for Non-Linear Advection-Diffusion-Sorption Systems: A Systematic Scientific Machine Learning Approach". *Preprint*, March 2023. File available.
 
 - **Queiroz, Luana P.; Rebello, Carine Menezes; Costa, Erbet Almeida; Nogueira, Idelfonso B. R.** "Generating Flavor Molecules Using Scientific Machine Learning". *ACS Omega*, March 2023. Full-text available.
 
@@ -37,17 +33,11 @@ title: "Publications"
 
 - **Viena, Vinícius; Martins, Márcio A F; Loureiro, José M; Nogueira, Idelfonso B. R.** "Novel Framework for Simulated Moving Bed Reactor Optimization Based on Deep Neural Network Models and Metaheuristic Optimizers: An Approach with Optimality Guarantee". *ACS Omega*, February 2023. Full-text available.
 
-- **Costa, Erbet Almeida; Rebello, Carine Menezes; Viena, Vinícius; Schnitman, Leizer.** "An Uncertainty Approach for Electric Submersible Pump Modeling Through Deep Neural Network". *Preprint*, January 2023. File available.
-
 - **Queiroz, Luana P.; Rebello, Carine Menezes; Costa, Erbet Almeida; Nogueira, Idelfonso B. R.** "A Transfer Learning Approach to Develop Natural Molecules with Specific Flavor Requirements". *Preprint*, December 2022. File available.
 
 - **Santos, Rodrigo V. A.; Rebello, Carine Menezes; Prudente, Anderson Nascimento; Nogueira, Idelfonso B. R.** "A Nested Loop for Simultaneous Model Topology Screening, Parameters Estimation, and Identification of the Optimal Number of Experiments: Application to a Simulated Moving Bed Unit". *Preprint*, September 2022. File available.
 
 - **Queiroz, Luana P.; Rebello, Carine Menezes; Costa, Erbet Almeida; Nogueira, Idelfonso B. R.** "A Robust Scientific Machine Learning for Optimization: A Novel Robustness Theorem". *Preprint*, September 2022. File available.
-
-- **Queiroz, Luana P.; Rebello, Carine Menezes; Costa, Erbet Almeida; Nogueira, Idelfonso B. R.** "A New Reinforcement Learning Framework to Discover Natural Flavor Molecules". *Preprint*, September 2022. File available.
-
-- **Queiroz, Luana P.; Rebello, Carine Menezes; Costa, Erbet Almeida; Nogueira, Idelfonso B. R.** "Generating Flavors Using Scientific Machine Learning". *Preprint*, August 2022. File available.
 
 - **Nogueira, Idelfonso B. R.; Viena, Vinícius; Ribeiro, Ana M.; Rodrigues, Alírio E.** "Using Scientific Machine Learning to Develop Universal Differential Equation for Multicomponent Adsorption Separation Systems". *The Canadian Journal of Chemical Engineering*, June 2022. Private full-text.
 
@@ -63,9 +53,7 @@ title: "Publications"
 
 - **Viena, Vinícius; Martins, Márcio A. F.; Loureiro, José M.; Nogueira, Idelfonso B. R.** "Optimal Fragrances Formulation Using a Deep Learning Neural Network Architecture: A Novel Systematic Approach". *Computers & Chemical Engineering*, May 2021. Private full-text.
 
-- **Viena, Vinícius; Martins, Márcio A. F.; Rodrigues, Alírio E.; Nogueira, Idelfonso B. R.** "Abnormal Operation Tracking Through Big-Data-Based Gram–
-
-Schmidt Orthogonalization: Production of n-Propyl Propionate in a Simulated Moving-Bed Reactor: A Case Study". *Industrial & Engineering Chemistry Research*, March 2021. Private full-text.
+- **Viena, Vinícius; Martins, Márcio A. F.; Rodrigues, Alírio E.; Nogueira, Idelfonso B. R.** "Abnormal Operation Tracking Through Big-Data-Based Gram–Schmidt Orthogonalization: Production of n-Propyl Propionate in a Simulated Moving-Bed Reactor: A Case Study". *Industrial & Engineering Chemistry Research*, March 2021. Private full-text.
 
 - **Regufe, Maria João; Viena, Vinícius; Martins, Márcio A. F.; Nogueira, Idelfonso B. R.** "Adsorption Material Composition and Process Optimization: A Systematical Approach Based on Deep Learning". *IFAC-PapersOnLine*, January 2021. Full-text available.
 
@@ -74,7 +62,8 @@ Schmidt Orthogonalization: Production of n-Propyl Propionate in a Simulated Movi
 - **Nogueira, Idelfonso B. R.; Viena, Vinícius; Rodrigues, Alírio E.; Ribeiro, Ana M.** "Dynamics of a True Moving Bed Reactor: Synthesis of n-Propyl Propionate and an Alternative Optimization Method". *Chemical Engineering and Processing - Process Intensification*, February 2020. Private full-text.
 
 - **Nogueira, Idelfonso B. R.; Martins, Márcio A. F.; Requião, Reiner; Ribeiro, Ana M.** "Optimization of a True Moving Bed Unit and Determination of Its Feasible Operating Region Using a Novel Sliding Particle Swarm Optimization". *Computers & Industrial Engineering*, June 2019. Private full-text. 
- 
+
+
 
 ## Thesis/Dissertation
   - Santana, Vinicius. "Cyber-physical oriented chemical process for green and sustainable production".PhD, University of Porto, Faculty of Engineering, 2024. [http://hdl.handle.net/10216/112770.2](https://repositorio-aberto.up.pt/handle/10216/158236).
