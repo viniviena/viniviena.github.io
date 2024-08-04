@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "teaching.md", title: "Teaching", icon: chalkboard-teacher}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:idelfonso.nogueira@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:vinicius.viena1@gmail.com"}
   
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
