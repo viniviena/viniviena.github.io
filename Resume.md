@@ -1,88 +1,60 @@
+layout: page  
+title: "Vinicius Viena Santana"  
 ---
-layout: page
-title: "Idelfonso Bessa dos Reis Nogueira"
----
-<!-- The (first) h1 will be used as the <title> of the HTML page -->
 
-<!-- The unordered list immediately after the h1 will be formatted on a single
-line. It is intended to be used for contact details -->
-- <idelfonso@fe.up.pt>
-- (+351) 911-991-699
-- Porto, Portugal
-
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
+- <vinicius.viena1@gmail.com>  
+- (+47) 96887457  
+- Trondheim, Norway  
 
 ## Education
 
-### <span>University of Porto, Doctorate in Chemical and Biological Engineering </span> <span>2015 -- 2018</span>
+### <span>University of Porto (Portugal), NTNU (Norway), MIT (USA), Ph.D. in Chemical Engineering</span> <span>Apr. 2022 -- Apr. 2024</span>  
+  - Data Science for Digital Transformation in the Chemical Industry. MIT Portugal Program Fellowship.
+  - Scientific Machine Learning for Process Systems Engineering Modeling - Applications Separation and Product Engineering.
+  - Supervisors: Prof. Idelfonso Nogueira (NTNU), Dr. Christopher Rackauckas (JuliaLab, MIT, CO-PI), Prof. Ana Mafalda Ribeiro (UPorto)
 
-  - Optimization and control of TMB, SMB and SMBR units.
+### <span>Federal University of Bahia, Master in Industrial Engineering</span> <span>Mar. 2020 -- Mar. 2022</span>  
+  - Deep Learning for nonlinear dynamic periodic system forecasting.
 
-### <span>Federal University of Bahia, Master in Industrial Engineering </span> <span>2013 -- 2016</span>
-
-  - Parameter Estimation, Inference and Quality Control of an Ethylene Copolymerization Process.
-
-### <span>University of Porto, Master in Chemical Engineering </span> <span>2006 -- 2012</span>
-
-  - Major in Processes and Pruducts.
+### <span>University of Porto, Master in Chemical Engineering</span> <span>Set. 2017 -- Set. 2019</span>  
+  - Process and Product Engineering
 
 ## Experience
 
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
-### <span>Contracted Researcher, LSRE - University of Porto</span> <span>Nov 2018 -- Current</span>
+### <span>Norwegian University of Science and Technology, Department of Chemical Engineering, Process Systems Engineering Group</span> <span>Aug 2023 -- Now</span>  
+  - Research on reinforcement learning for automatic process flowsheet design and system synthesis in blue hydrogen CCS technology.
+  - Research Fellow supporting the development of data-driven models and Model Predictive Control (MPC) strategies for ESP systems in Brazilian oil field (Jubart), in collaboration with the Federal University of Bahia and Petrobras, Brazil.
+  - Co-creator and developer of ProcessSimulator.jl, an open-source, high-performance simulator in Julia - collaboration with JuliaLab (MIT) and JuliaHub Inc. (Talk at JuliaCon 2024).
+  - Co-creator and developer of IdealAdsorbedSolutionTheory.jl - an open-source Julia library for fluid-solid equilibrium properties.
+  - Co-supervised 4 master's and 4 undergraduate students in the past year.
+  - Co-creator of the machine learning course for natural sciences faculty at NTNU for 3rd+ year students.
+  - Co-creating and managing EU project proposal in large language AI models for industry and robotics (HORIZON Research and Innovation Actions) with consortium members including NVIDIA, Bosch, NNL, Iceland Space Agency, and more.
 
-### <span>Postdoctoral (Research), LSRE - University of Porto</span> <span>Set 2018 -- Nov 2018</span>
+### <span>SENAI CIMATEC – High Performance and Super Computing Center</span> <span>May 2021 -- Aug. 2021</span>  
+  - Collaborated with engineers, computer scientists, and meteorologists to develop machine learning and mechanistic predictive models of atmosphere for long-term and short-term forecasting of solar and wind energy potential in Petrolina, Brazil, using large-scale weather datasets (1 to 10 TB).
+  - Performed massive data preprocessing and visualization and configured machine learning training jobs on a supercomputer cluster, utilizing Unix Shell CLI, Bash scripting, and Python.
 
-### <span>Visiting Researcher, Tampereen teknillinen yliopisto Hydrauliikan - Finland</span> <span>Set 2016 -- Out 2017</span>
+### <span>Braskem, S/A</span> <span>Fev. 2019 -- fev. 2020</span>  
+  - Collaborated with engineers and data scientists to develop a predictive model capable of anticipating issues in PVC resin (Polymer) quality based on process data in a 250kT/year capacity plant.
+  - Partnered with process engineers, operators, and managers to model and benchmark CO₂ emissions and energy consumption for a 250kT/year MVC (Monomer) plant on a global scale, driving insights for environmental efficiency and sustainability.
+  - Co-developed a rigorous model for power spray dryer in Matlab that helped optimize unit operation and control.
+  - Co-developed simulation environment in Aspen Plus to assess brittle fracture risk in high-pressure natural gas decompression skid.
 
-## Research Interests
+## Skills
 
-   - Artificial Intelligence application in Chemical Engineering;
-   - Advanced Control and Real-time Optimization oriented by Artificial Intelligence;
-   - Optimization and control under uncertainties;
-   - Cyber-physical systems;
-   - Digital twinning.
+- **Data Analysis:** Data Mining, SQL, Data Visualization, Data Processing  
+- **Programming:** Python (Pandas, Numpy, PyTorch, TensorFlow), SQL, Matlab, Julia (developer)  
+- **Machine Learning:** Multivariate supervised learning, Deep Learning, Statistics (Bayesian and Frequentist), Big Data Processing  
+- **Software Development:** Version control with git, CI DevOps, CLI interfacing and test-driven development  
+- **Languages:** Portuguese - Mother tongue, English - C1; German - A1, Norwegian - A1 (learning)
 
-## Professional Services
+## Honors & Awards
 
-### Conference scientific comittee
-   - <span>3rd International Conference on Machine Learning and Intelligent Systems (MLIS 2021) - China </span><span>2020/12 -- 2021/12</span>
-   - <span>2nd International Conference on Machine Learning and Intelligent Systems (MLIS2020) - Korea </span><span>2019 -- 2020</span>
-   - <span>3rd International Conference on Computer Science and Application Engineering - China </span><span>2019 -- 2019</span>
-   - <span>2019 International Conference on Machine Learning and Intelligent Systems National Dong Hwa University – Taiwan </span><span>2018 -- 2019</span>
+- **2021 Finalist:** Top 3 finalist project for AI Business Idea in AINanoTec program, Porto, Portugal  
+- **2022 Best Poster in Data Science:** MIT Portugal conference, Aveiro, Portugal
 
-### Event Organization 
-   - <span>Lecture Cycle - Writing Scientific Articles. Universidade Federal da Bahia Escola Politécnica, Brazil Seminar (Co-organisor) </span><span>2014/07 -- 2014/08</span>
-   - <span>II Scientific Seminar of the Research Group in Uncertainties. Universidade Federal da Bahia Escola Politécnica, Brazil Seminar (Co-organisor) </span><span>2014 -- 2014</span>
-   - <span> New Tools of the Engineering Applied to Solve Industrial Problems. Universidade Federal da Bahia Escola Politécnica, Brazil </span><span>2013/12 -- 2013/12 </span>
- 
-### Reviewer
+## Writing
 
-   - Brazilian Journal of Chemical Engineering, Springer
-   - Energy and AI, Elsevier
-   - Soft Computing, Springer
-   -  Mathematics, MDPI
-   -  AI, MDPI
-   -  Current Chemical Engineering and Science 
-   -  Computers & Chemical, Elsevier
-   -  Symmetry, MDPI
-   -  Chemosphere, Elsevier
-   -  Applied Sciences, MDPI
-   -  Current Energies, MDPI 
-   -  Processes, MDPI
-   -  Journal of Chromatography A, Elsevier
-   -  Hydrology: Current Research 
-   -  Journal of Marine Science: Research & Development 
- 
-![Reviews](/reviews.png)
-  
-## Association Member
-   - <span>Current P2S - Processos e Produtos Sustentáveis (UFBA research group) External Reseacher </span><span>2020 -- Current</span>
-   - <span>Current Current Artificial Intelligent oriented Cyclic Adsorption Separation and Reaction Processes Optimization and Control (AICySPrOC) Founding Member, Coordinator </span><span>2020 -- Current</span>
-   - <span>Group of Research in Uncertainty GI-UFBA Manager Member, Specialist Member </span><span>2013 -- 2016</span>
-
-## Publications
-![Publications](/publications.png)
-
+- **Author/Co-author:** Jan. 2021 -- Present  
+  - Co-author of 36 scientific manuscripts in Machine Learning applied to process systems engineering  
+  - [ResearchGate Profile](https://www.researchgate.net/profile/Vinicius-Viena)
