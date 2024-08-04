@@ -2,7 +2,7 @@
 layout: page
 title: "Vinicius Viena Santana"
 ---
-<img align="left" src="foto_new_circ.png" style="width: 30%; height: auto;">
+<img align="left" src="foto_new_circ.png" style="width: 25%; height: auto;">
 
 I am a passionate researcher and innovator currently engaged as a postdoctoral researcher at NTNU in Norway. My academic journey has taken me through a master's in chemical engineering from the University of Porto, another in industrial engineering from the Federal University of Bahia, and culminated in a Ph.D. from the University of Porto, where I specialized in data science applied to digital transformation (Industrial AI) within the prestigious MIT Portugal program.
 
@@ -17,5 +17,5 @@ My research and professional interests lie in Data Science, (Scientific) Machine
 
 I am committed to driving innovation in the industrial sector through the integration of AI, data science, and engineering principles. Let's connect and explore how we can shape the future of industrial processes together!
 
-<center><img src="logo_circ.png" style="width: 50%; height: auto;"></center>
+<center><img src="logo_circ.png" style="width: 65%; height: auto;"></center>
   
