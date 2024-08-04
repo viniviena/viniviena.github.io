@@ -2,7 +2,7 @@
 layout: page
 title: "Vinicius Viena Santana"
 ---
-<img align="left" src="foto_new.png">
+<img align="left" src="foto_new_circ.png">
 
 This is my webpage
 
