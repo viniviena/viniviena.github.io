@@ -8,13 +8,6 @@ I am a passionate engineer, researcher and innovator currently engaged as a post
 
 My professional interests lie in Data Science, (Scientific) Machine Learning Engineering, and Process Engineering, particularly as they apply to Industrial Engineering challenges such as energy and process engineering. I am driven by a deep curiosity to harness the power of AI and data science to push the boundaries of engineering.
 
-### Skills and Achievements
-
-- **Author of 20+ Papers:** Published in top-tier Q1/Q2 journals, focusing on AI and Process Systems Engineering.
-- **Python Expertise:** 6 years of experience in developing robust Python solutions.
-- **Julia Programming:** 3 years of crafting solutions in Julia for cutting-edge applications.
-- **Process Systems Engineering (PSE):** 7 years of advancing PSE solutions with a focus on industrial applications.
-
 I am committed to driving innovation in the industrial sector through the integration of AI, data science, and engineering principles. Let's connect and explore how we can shape the future of industrial processes together!
 
 <center><img src="logo_circ.png" style="width: 65%; height: auto;"></center>
