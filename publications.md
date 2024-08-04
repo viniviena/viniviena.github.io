@@ -5,8 +5,6 @@ title: "Publications"
 
 ## Journal Articles
 
-Here's the updated list with the duplicate preprints removed:
-
 - **Costa, Erbet Almeida; Rebello, Carine Menezes; Viena, Vinícius; Schnitman, Leizer.** "An Uncertainty Approach for Electric Submersible Pump Modeling Through Deep Neural Network". *Heliyon*, January 2024. Full-text available.
 
 - **Viena, Vinícius; Rebello, Carine Menezes; Queiroz, Luana P.; Nogueira, Idelfonso B. R.** "PUFFIN: A Path-Unifying Feed-Forward Interfaced Network for Vapor Pressure Prediction". *Chemical Engineering Science*, December 2023.
