@@ -17,5 +17,5 @@ My research and professional interests lie in Data Science, (Scientific) Machine
 
 I am committed to driving innovation in the industrial sector through the integration of AI, data science, and engineering principles. Let's connect and explore how we can shape the future of industrial processes together!
 
-<center><img src="logo_circ.png" style="width: 40%; height: auto;"></center>
+<center><img src="logo_circ.png" style="width: 50%; height: auto;"></center>
   
