@@ -64,7 +64,6 @@ Here's the updated list with the duplicate preprints removed:
 - **Nogueira, Idelfonso B. R.; Martins, Márcio A. F.; Requião, Reiner; Ribeiro, Ana M.** "Optimization of a True Moving Bed Unit and Determination of Its Feasible Operating Region Using a Novel Sliding Particle Swarm Optimization". *Computers & Industrial Engineering*, June 2019. Private full-text. 
 
 
-
 ## Thesis/Dissertation
   - Santana, Vinicius. "Cyber-physical oriented chemical process for green and sustainable production".PhD, University of Porto, Faculty of Engineering, 2024. [http://hdl.handle.net/10216/112770.2](https://repositorio-aberto.up.pt/handle/10216/158236).
   - Santana, Vinicius. "SIMULATED MOVING BED REACTOR: DYNAMIC MODELING, ABNORMAL OPERATION TRACKING AND OPTIMIZATION". Master, Universidade Federal da Bahia, Escola Politécnica, 2016. [http://repositorio.ufba.br/ri/handle/ri/2433](https://sigaa.ufba.br/sigaa/public/programa/noticias_desc.jsf?lc=en_US&id=1833&noticia=1010451)
@@ -73,4 +72,4 @@ Here's the updated list with the duplicate preprints removed:
   - ProcessSimulator.jl - A differential Chemical Process Simulator in Julia (2024 - JuliaCon, Eindhoven)
   - Hybrid Non-Linear Advection-Diffusion-Sorption Simulator (2023 - SynS & ML Workshop @ ICML 2023, Hawaii)
   - Efficient Hybrid Modeling and Sorption Model Discovery for Non-Linear Advection-Diffusion-Sorption Systems: A Systematic Scientific Machine Learning Approach (2024 - 43rd Iberian Conference in adsorption.
-  - 
+  - Auto-Completing Models to Uncover Missing Physics (Digiwell Julia Seminar, 2023, https://www.youtube.com/watch?v=jVDL6lloBOc&list=PLP8iPy9hna6SOxXv_t1s8eEO6O0jTblqX&index=11&t=656s)
