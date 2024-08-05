@@ -56,5 +56,5 @@ title: "Vinicius Viena Santana"
 ## Writing
 
 - **Author/Co-author:** Jan. 2021 -- Present  
-  - Co-author of 36 scientific manuscripts in Machine Learning applied to process systems engineering  
+  - Co-author of more than 20 scientific manuscripts in Machine Learning applied to process systems engineering  
   - [ResearchGate Profile](https://www.researchgate.net/profile/Vinicius-Viena)
