@@ -5,7 +5,7 @@ title: "Publications"
 
 ## Journal Articles
 
-- - **Santana, Vinícius V.; Carmo, Paulo; Seabra, Rute; Rodrigues, Alírio E.; Ribeiro, Ana Mafalda; Nogueira, Idelfonso B. R.; Yoon, Ji Woong; Cho, Kyung Ho; Yun, Ji Sub; Lee, U-Hwang; Kim, Kiwoong; Ferreira, Alexandre F. P.** "Ethylene Purification by Pressure Swing Adsorption with the Paraffin Selective Metal–Organic Framework─DUT-8". *Industrial & Engineering Chemistry Research*, February 2024. Full-text available [here](https://doi.org/10.1021/acs.iecr.3c02808).
+- **Santana, Vinícius V.; Carmo, Paulo; Seabra, Rute; Rodrigues, Alírio E.; Ribeiro, Ana Mafalda; Nogueira, Idelfonso B. R.; Yoon, Ji Woong; Cho, Kyung Ho; Yun, Ji Sub; Lee, U-Hwang; Kim, Kiwoong; Ferreira, Alexandre F. P.** "Ethylene Purification by Pressure Swing Adsorption with the Paraffin Selective Metal–Organic Framework─DUT-8". *Industrial & Engineering Chemistry Research*, February 2024. Full-text available [here](https://doi.org/10.1021/acs.iecr.3c02808).
 
 - **Costa, Erbet Almeida; Rebello, Carine Menezes; Viena, Vinícius; Schnitman, Leizer.** "An Uncertainty Approach for Electric Submersible Pump Modeling Through Deep Neural Network". *Heliyon*, January 2024. Full-text available.
 
