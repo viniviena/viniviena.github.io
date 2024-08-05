@@ -4,7 +4,6 @@ title: "Vinicius Viena Santana"
 ---
 
 - <vinicius.viena1@gmail.com>  
-- (+47) 96887457  
 - Trondheim, Norway  
 
 ## Education
